@@ -12,11 +12,12 @@ ul {
 }
 li {
     display:inline;
+    float: left;
 }
 
 a {
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #333;
 }
 
 li a:hover {
