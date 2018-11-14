@@ -1,5 +1,4 @@
 body {
-  min: 100vh;
   background-image: linear-gradient(khaki, orangered);
   background-color: #fff8dc;
 }
@@ -16,7 +15,6 @@ li {
 }
 
 a {
-    display: block;
     padding: 8px;
     background-color: #dddddd;
 }
